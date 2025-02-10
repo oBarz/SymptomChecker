@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Apartment",
+        "exterior": ["Balcony"],
+        "interior": ["Dining Room", "Office"]
+    },
+    {
+        "name": "Villa",
+        "exterior": ["Pool", "Garden"],
+        "interior": ["Bedroom", "Bathroom"]
+    }
+]

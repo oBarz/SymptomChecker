@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Nosea",
+        "questions": [
+            "Do you feel like vomiting?",
+            "Did you eat something unusual?"
+        ],
+        "conditions": [
+            "Food Poisoning",
+            "Pregnancy",
+            "Stomach Flu"
+        ]
+    },
+    {
+        "name": "String",
+        "questions": [
+            "Please describe your symptom more clearly."
+        ],
+        "conditions": [
+            "Unknown Condition"
+        ]
+    },
+    {
+        "name": "Cough",
+        "questions": [
+            "Do you have a dry cough?",
+            "How long have you been coughing?"
+        ],
+        "conditions": [
+            "Cold",
+            "Flu",
+            "COVID-19",
+            "Bronchitis"
+        ]
+    },
+    {
+        "name": "Fever",
+        "questions": [
+            "What is your temperature?",
+            "Since when do you have a fever?"
+        ],
+        "conditions": [
+            "Flu",
+            "Infection",
+            "COVID-19",
+            "Heat Stroke"
+        ]
+    },
+    {
+        "name": "Stomack Pain",
+        "questions": [
+            "Where exactly do you feel the pain?",
+            "Does it get worse after eating?"
+        ],
+        "conditions": [
+            "Ulcer",
+            "Gastritis",
+            "Food Intolerance"
+        ]
+    },
+    {
+        "name": "Back Pain",
+        "questions": [
+            "Is the pain in your lower back?",
+            "Does the pain spread to your legs?"
+        ],
+        "conditions": [
+            "Muscle Strain",
+            "Herniated Disc",
+            "Arthritis"
+        ]
+    }
+]

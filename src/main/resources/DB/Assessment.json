@@ -1,0 +1,100 @@
+[
+  {
+    "assessmentId": "0b59fa1a-743a-4e43-806a-f2e908e86416",
+    "email": "string",
+    "symptoms": [
+      "string"
+    ],
+    "responses": {}
+  },
+  {
+    "assessmentId": "6f4f4c07-dacd-4e98-b8ee-dea43eda043e",
+    "email": "string",
+    "symptoms": [
+      "string"
+    ],
+    "responses": {}
+  },
+  {
+    "assessmentId": "eec7391a-0238-44ec-8805-8f8caff28886",
+    "email": "ovi@yahoo.com",
+    "symptoms": [
+      "Cough",
+      "Fever"
+    ],
+    "responses": {
+      "ovi question": "ovi answer",
+      "paracetamol": "yes",
+      "antibiotice": "yes"
+    }
+  },
+  {
+    "assessmentId": "046037f9-1b26-4e92-8479-ebc5fb240985",
+    "email": "ovi@yahoo.com",
+    "symptoms": [
+      "back pain"
+    ],
+    "responses": {
+      "back question": "back answer"
+    }
+  },
+  {
+    "assessmentId": "b746b85e-81cc-4866-ae93-8bbe1ca1dec1",
+    "email": "ovi@yahoo.com",
+    "symptoms": [
+      "back pain"
+    ],
+    "responses": {}
+  },
+  {
+    "assessmentId": "b20cf852-4207-4997-a7df-0f9aa7ba9fe6",
+    "email": "ovi@yahoo.com",
+    "symptoms": [
+      "Back Pain",
+      "Nosea"
+    ],
+    "responses": {
+      "lombar back pain": "yes"
+    }
+  },
+  {
+    "assessmentId": "f8afe8d2-8c77-4ef5-bfb4-0a0c3c0bba95",
+    "email": "string",
+    "symptoms": [
+      "string"
+    ],
+    "responses": {}
+  },
+  {
+    "assessmentId": "a837238c-da73-4d3b-a0aa-5c5e7937f352",
+    "email": "string",
+    "symptoms": [
+      "string"
+    ],
+    "responses": {}
+  },
+  {
+    "assessmentId": "9a021410-d13e-4d6d-800a-a7114b73f1ce",
+    "email": "ovi@yahoo.com",
+    "symptoms": [
+      "string"
+    ],
+    "responses": {}
+  },
+  {
+    "assessmentId": "4cdbcaff-c76e-4109-8050-e0d506e9ada9",
+    "email": "string",
+    "symptoms": [
+      "string"
+    ],
+    "responses": {}
+  },
+  {
+    "assessmentId": "df8add17-f513-4c50-99af-24192cca818d",
+    "email": "ovi@yahoo.com",
+    "symptoms": [
+      "stomack pain"
+    ],
+    "responses": {}
+  }
+]

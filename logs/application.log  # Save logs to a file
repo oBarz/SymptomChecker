@@ -1,0 +1,42 @@
+2025-02-03 17:49:30 - INFO - [main] c.s.s.c.AssessmentControllerTest - Starting AssessmentControllerTest using Java 21.0.3 on ServUsDesk with PID 26972 (started by ovidi in D:\_____temp\seara\symptom-checker\symptom-checker)
+2025-02-03 17:49:30 - INFO - [main] c.s.s.c.AssessmentControllerTest - No active profile set, falling back to default profiles: default
+2025-02-03 17:49:33 - INFO - [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 3f366145-a4ce-42e0-8d6e-a22e3da6d59d
+
+2025-02-03 17:49:33 - INFO - [main] o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@285a4fe3, org.springframework.security.web.context.SecurityContextPersistenceFilter@5c3d4f05, org.springframework.security.web.header.HeaderWriterFilter@1bd8afc8, org.springframework.security.web.authentication.logout.LogoutFilter@28be7fec, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@62cbc478, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6d0e45a5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2589d787, org.springframework.security.web.session.SessionManagementFilter@51ac12ac, org.springframework.security.web.access.ExceptionTranslationFilter@5968800d, org.springframework.security.web.access.intercept.AuthorizationFilter@8b13d91]
+2025-02-03 17:49:34 - INFO - [main] o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-02-03 17:49:34 - INFO - [main] o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-02-03 17:49:34 - INFO - [main] o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-02-03 17:49:34 - INFO - [main] c.s.s.c.AssessmentControllerTest - Started AssessmentControllerTest in 3.961 seconds (JVM running for 5.162)
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Updating assessment: b14bf67c-dc1a-4aa5-87c0-56a83e8577f2 with response to question: Do you have headaches?
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Calculating final diagnosis for assessmentId: 0ed5871c-f43c-4041-829d-52a6f6d0e38f
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Final diagnosis for assessmentId 0ed5871c-f43c-4041-829d-52a6f6d0e38f: COVID-19
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Calculating final diagnosis for assessmentId: b4a979ea-3b00-4042-ab38-129da882964f
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Started assessment for email: test@example.com with symptoms: [cough, fever]
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Updating assessment: a0631bfb-e9a5-4ae9-b5f3-76554cd9a81d with response to question: Do you have headaches?
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Fetching next question for assessmentId: 7cb20820-525c-46d4-bc52-b95933c2bd7b
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Calculating final diagnosis for assessmentId: 21c37c6f-24a2-41b2-adcf-b6b650c3f704
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Final diagnosis for assessmentId 21c37c6f-24a2-41b2-adcf-b6b650c3f704: Unknown Condition
+2025-02-03 17:49:34 - INFO - [main] c.s.s.service.AssessmentService - Fetching next question for assessmentId: b29f91a9-d279-4ef5-978c-4d1960270ef3
+2025-02-03 17:55:20 - INFO - [main] c.s.s.c.AssessmentControllerTest - Starting AssessmentControllerTest using Java 21.0.2 on ServUsDesk with PID 34348 (started by ovidi in D:\_____temp\seara\symptom-checker\symptom-checker)
+2025-02-03 17:55:20 - INFO - [main] c.s.s.c.AssessmentControllerTest - No active profile set, falling back to default profiles: default
+2025-02-03 17:55:22 - INFO - [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 03c7027f-99fc-4a24-995d-5d3045896870
+
+2025-02-03 17:55:23 - INFO - [main] o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2d130ac4, org.springframework.security.web.context.SecurityContextPersistenceFilter@1eeb5818, org.springframework.security.web.header.HeaderWriterFilter@5012c571, org.springframework.security.web.authentication.logout.LogoutFilter@175c5c3a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@72a8361b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4652c74d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2f0ccb34, org.springframework.security.web.session.SessionManagementFilter@78d73b1b, org.springframework.security.web.access.ExceptionTranslationFilter@3dec3f87, org.springframework.security.web.access.intercept.AuthorizationFilter@231df705]
+2025-02-03 17:55:24 - INFO - [main] o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-02-03 17:55:24 - INFO - [main] o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-02-03 17:55:24 - INFO - [main] o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-02-03 17:55:24 - INFO - [main] c.s.s.c.AssessmentControllerTest - Started AssessmentControllerTest in 3.936 seconds (JVM running for 5.049)
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Updating assessment: 892e7fb1-e578-43d1-8501-28d16c58f88a with response to question: Do you have headaches?
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Calculating final diagnosis for assessmentId: ccc30196-24a3-4fb8-9225-dbe5ee5d5107
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Final diagnosis for assessmentId ccc30196-24a3-4fb8-9225-dbe5ee5d5107: COVID-19
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Calculating final diagnosis for assessmentId: 4fe1fb42-fb17-48f0-9f0a-254e122370de
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Started assessment for email: test@example.com with symptoms: [cough, fever]
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Updating assessment: 5a16c7de-c86d-460d-9e01-d3951c21394a with response to question: Do you have headaches?
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Fetching next question for assessmentId: ce086114-9327-4d51-99b8-d4fc281f8477
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Calculating final diagnosis for assessmentId: d448c6b7-064b-4c48-9f34-b160dd4a36b7
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Final diagnosis for assessmentId d448c6b7-064b-4c48-9f34-b160dd4a36b7: Unknown Condition
+2025-02-03 17:55:24 - INFO - [main] c.s.s.service.AssessmentService - Fetching next question for assessmentId: 72ec89d5-191c-4823-9ad8-4076ca840481

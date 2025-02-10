@@ -1,0 +1,23 @@
+[
+    {
+        "password": "$2a$10$/eX6WXzcRPbcajzrfAOHgeU1aWjuNuK.M9bI3HHR1PuG4H9duo/Ae",
+        "gender": "male",
+        "email": "ovidiu.barz@gmail.com",
+        "reportedSymptoms": ["neck pain", "back pain"],
+        "age": 50
+    },
+    {
+        "password": "$2a$10$FOL45hj7yDAtSg/08VP8juwNBx3pqRvnHVcwWidDCnEmQyRG.VPHe",
+        "gender": "male",
+        "email": "nicolae.o.barz@gmail.com",
+        "reportedSymptoms": ["fever, back pain"],
+        "age": 50
+    },
+    {
+        "password": "$2a$10$MXacO8kbgrtrY4JG9aXkdeO6V1Pz1E8d6aCTCEs0cBo/nmy4Qx6aO",
+        "gender": "Male",
+        "email": "ovi@yahoo.com",
+        "reportedSymptoms": ["Fever", "Cough"],
+        "age": 30
+    }
+]

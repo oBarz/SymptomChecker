@@ -1,0 +1,11 @@
+2025-02-03 11:54:42.841  INFO 15792 --- [main] c.s.s.c.AssessmentControllerTest         : Starting AssessmentControllerTest using Java 21.0.3 on ServUsDesk with PID 15792 (started by ovidi in D:\_____temp\seara\symptom-checker\symptom-checker)
+2025-02-03 11:54:42.846  INFO 15792 --- [main] c.s.s.c.AssessmentControllerTest         : No active profile set, falling back to default profiles: default
+2025-02-03 11:54:45.139  INFO 15792 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 49557535-2707-48cf-b5ce-8b39cae0af66
+
+2025-02-03 11:54:45.342  INFO 15792 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2313db84, org.springframework.security.web.context.SecurityContextPersistenceFilter@38ac8968, org.springframework.security.web.header.HeaderWriterFilter@515ab3f2, org.springframework.security.web.authentication.logout.LogoutFilter@3815146b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@67b61834, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@437ed416, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@216372b7, org.springframework.security.web.session.SessionManagementFilter@2ca54da9, org.springframework.security.web.access.ExceptionTranslationFilter@6b2fdffc, org.springframework.security.web.access.intercept.AuthorizationFilter@508ad266]
+2025-02-03 11:54:46.221  INFO 15792 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-02-03 11:54:46.221  INFO 15792 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-02-03 11:54:46.222  INFO 15792 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2025-02-03 11:54:46.266  INFO 15792 --- [main] c.s.s.c.AssessmentControllerTest         : Started AssessmentControllerTest in 3.893 seconds (JVM running for 5.132)
